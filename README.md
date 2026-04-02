@@ -19,7 +19,7 @@ This ROS2 workspace implements **3D mapping** for an autonomous hospital robot. 
 
 ---
 
-## 🤖 Hardware
+## 🤖 Hardware/software
 
 | Component | Spec |
 |-----------|------|
