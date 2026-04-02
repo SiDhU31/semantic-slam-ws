@@ -1,6 +1,4 @@
-# 🏥 Neuro Nexus — Semantic SLAM Workspace
-
-> Part of the **Neuro Nexus** multimodal semantic perception and autonomous navigation system for hospital robots.
+> multimodal semantic perception and autonomous navigation system for hospital robots.
 
 ![ROS2](https://img.shields.io/badge/ROS2-Humble-blue)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-22.04-orange)
@@ -11,7 +9,7 @@
 
 ## 📌 Overview
 
-This ROS2 workspace implements **semantic 3D mapping** for an autonomous hospital robot. It combines:
+This ROS2 workspace implements **3D mapping** for an autonomous hospital robot. It combines:
 
 - **RTAB-Map** RGB-D SLAM for real-time mapping and loop closure
 - **OctoMap** for 3D occupancy voxel grid generation
@@ -140,12 +138,8 @@ The `/camera/camera/` double namespace is expected behavior for the RealSense RO
 | Role | Name |
 |------|------|
 | Developer | Sidharth Raj KR |
-| Internal Guide | Dr. G. Sivasankar, Amrita Vishwa Vidyapeetham |
-| External Guide | Dr. Ankit Ravankar, Tohoku University |
+| Developer | Parwathe |
 
-**Institution:** Amrita Vishwa Vidyapeetham, Coimbatore
-**Program:** B.Tech Automation & Robotics (2022–2026)
-**Project:** Neuro Nexus — Multimodal Semantic Perception & Autonomous Navigation
 
 ---
 
