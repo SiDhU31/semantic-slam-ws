@@ -98,7 +98,7 @@ Subscribes to `/octomap_point_cloud_centers` (from OctoMap server) and publishes
 | 🟣 Purple | Far / open space (~2m+) |
 
 Uses **scipy cKDTree** for nearest-neighbor distance computation per point.
-
+![WhatsApp Image 2026-04-02 at 2 06 18 PM](https://github.com/user-attachments/assets/f8336f31-ff12-40b6-829f-dfb502720f66)
 ---
 
 ## 🌍 Hospital World (Gazebo)
